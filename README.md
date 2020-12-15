@@ -21,7 +21,7 @@ Putting our knowledge and cohesion into practice through teamwork.
 Make the project "pretty"
 
 ## Overview 
-[![little overview](Overview.png)](https://joelle-everaert.github.io/The-Quizz/) 
+[![little overview](Overview.png)](https://joelle-everaert.github.io/Markdown-Editor/)
 
 ### Original instruction
 
