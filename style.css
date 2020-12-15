@@ -1,0 +1,75 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+}
+
+textarea {
+    height: 85vh;
+    width: 45vw;
+    border: 1px solid black;
+    text-align: left;
+    vertical-align: top;
+    outline: none;
+    overflow-wrap: break-word;
+    overflow: scroll;
+}
+
+.translation {
+    height: 85vh;
+    width: 45vw;
+    border: 1px solid black;
+    text-align: left;
+    vertical-align: top;
+    outline: none;
+    overflow-wrap: break-word;
+    overflow: scroll;
+} 
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.titre{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3vh;
+}
+
+h1, h2, h3{
+    margin : 0;
+    padding : 0;
+}
+
+h4, h5, h6{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+blockquote{
+    margin-top: 5px;
+    margin-bottom: 0;
+    background-color: rgba(187, 186, 186, 0.973);
+    font-style: italic;
+    width: 50%;
+}
+
+img{
+    height: 50%;
+    width: 70%;
+}
+
+
+ 
+
